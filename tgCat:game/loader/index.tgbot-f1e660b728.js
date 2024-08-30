@@ -1,0 +1,1 @@
+window.screenOrientation="portrait",loadLib("libs/laya.core-257cbfb155.js"),loadLib("libs/laya.ui-7035d24e4a.js"),loadLib("libs/patchloader-3cd6eb856e.js"),loadLib("libs/configs/config.tgbot-9d04a1dc8c.js"),loadLib("libs/platforms/platform.tgbot.webapp-121ec62813.js"),loadLib("libs/mmobay.core-b7318488af.js"),loadLib("loader/js/bundle-ec59616155.js");
